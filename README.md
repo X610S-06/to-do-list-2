@@ -1,4 +1,4 @@
-# to-do-list-2
+# To Do list 2
 This is built to keep track of things to be performed on a regular basis using HTML, CSS, EJS, ExpressJS, NodeJS and MongoDB etc.
 
 # Clone and Use
