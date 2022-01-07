@@ -1,7 +1,7 @@
 # to-do-list-2
 This is built to keep track of things to be performed on a regular basis using HTML, CSS, EJS, ExpressJS, NodeJS and MongoDB etc.
 
-# Clone and Use:
+# Clone and Use
 
   Open Terminal 
   
@@ -22,7 +22,10 @@ This is built to keep track of things to be performed on a regular basis using H
   Run the website on localhost
   
     node app.js
+    
+# Screenshot
   
+![image](https://user-images.githubusercontent.com/37767811/148597308-892ed836-1a00-4a44-a4df-4358fb73fc73.png)
 
 
     
