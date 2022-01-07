@@ -17,8 +17,8 @@ This is built to keep track of things to be performed on a regular basis using H
 
   Install dependencies
 
-    npm install
-
+    npm install    
+   
   Run the website on localhost
   
     node app.js
